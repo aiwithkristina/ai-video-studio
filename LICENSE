@@ -1,0 +1,64 @@
+Kristina Bennett Video Studio License
+Version 1.0, November 2026
+
+Copyright (c) 2026 Kristina Bennett. All rights reserved, except the permissions
+given below.
+
+Definitions
+
+"The Software" means everything in this repository: the code, the effects, the
+caption animations, the setup files, the instructions and the documentation, in
+original or modified form, in whole or in part.
+
+"Official sources" means https://github.com/aiwithkristina/ai-video-studio and
+https://aiwithkristina.com.
+
+1. What you may do
+
+You may download the Software from the official sources, install it on your own
+computers, and use it to create any content for any purpose, including commercial
+content and work for paying clients. You may change the Software for your own use.
+
+2. Your content is yours
+
+Videos, images and other content you create with the Software belong to you. You
+do not have to credit the author in them.
+
+3. What you may not do
+
+Whether for free or for payment, you may not:
+
+(a) sell, rent, sublicense or otherwise charge for the Software or any part of it,
+    including as part of a course, template pack, bundle, membership or product;
+
+(b) upload, publish, share or distribute copies of the Software or any part of it,
+    original or modified, anywhere other than the official sources, including file
+    sharing services, cloud folders shared with others, websites, marketplaces and
+    other code repositories;
+
+(c) present the Software or any part of it as your own work, or remove or change
+    this license or the copyright notice.
+
+4. How to share
+
+To share the Software with someone, share a link to the official sources.
+
+Forks created with GitHub's fork button on github.com exist only because GitHub's
+Terms of Service require it. A fork must keep this license unchanged and may not be
+used for anything that section 3 forbids.
+
+5. Other components
+
+Tools the Software downloads or uses when it runs (for example ffmpeg, Python
+packages, PyTorch, Robust Video Matting, HyperFrames and Google Fonts) are not part
+of the Software. Each comes with its own license.
+
+6. No warranty
+
+The Software is provided "as is", without warranty of any kind, express or implied.
+In no event shall the author be liable for any claim, damages or other liability
+arising from the Software or its use.
+
+7. Ending
+
+If you break these terms, your permission to use the Software ends automatically.
